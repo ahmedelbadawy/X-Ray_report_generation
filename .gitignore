@@ -1,4 +1,8 @@
 ### AL ###
+.venv/
+cxr_db/
+data/
+chkpts/
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
