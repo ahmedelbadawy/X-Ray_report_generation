@@ -3,6 +3,10 @@
 cxr_db/
 data/
 chkpts/
+results/
+__pycache__/
+
+main.ipynb
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
