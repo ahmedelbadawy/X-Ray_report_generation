@@ -8,6 +8,8 @@ General-purpose LLMs can write fluent radiology text but may **hallucinate findi
 
 ## How it works
 
+![Pipeline fig](./figs/pipeline.png)
+
 ```
 Chest X-ray  ──►  ALBEF image encoder  ──►  image embedding
                                                    │
